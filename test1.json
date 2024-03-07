@@ -1,0 +1,18 @@
+{
+  "address": {
+    "city": "Piter",
+    "house": 15,
+    "prevReg": ["agasgd "],
+    "street": "emlina"
+  },
+  "age": 25,
+  "isMale": true,
+  "name": "Bob",
+  "pets": [{
+    "petName": "aagag",
+    "petType": "pig"
+  }, {
+    "petName": "agasgag",
+    "petType": "afasgfa"
+  }]
+}
